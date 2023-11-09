@@ -1,5 +1,5 @@
 <template>
- <HeaderApp />
+  <HeaderApp />
   <MainApp />
   <FooterApp />
 </template>
@@ -16,18 +16,16 @@ export default {
     MainApp,
     FooterApp
   },
-  data(){
+  data() {
     return {
 
     }
   },
-  methods:{
+  methods: {
 
   }
- 
+
 }
 </script>
 
-<style lang="scss">
-
-</style>
+<style lang="scss"></style>
