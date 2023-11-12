@@ -94,7 +94,7 @@ Se tutto funziona pusho su github
 - Apro la cartella components e la svuoto
 - Apro la cartella assets svuoto tutto tranne main.css
 - Cancello tutto il contenuto del main.css e lo rinomino in main.scss
-- creto in assets le cartelle images e styles
-- sposto dentro la acartella styles main.scss
+- creo in assets le cartelle images e styles
+- sposto dentro la cartella styles main.scss
 - aggiorno il path a main.scss in main.js
 - aggiungo eventuale cartella immagini a public 
