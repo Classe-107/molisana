@@ -97,4 +97,5 @@ Se tutto funziona pusho su github
 - creo in assets le cartelle images e styles
 - sposto dentro la cartella styles main.scss
 - aggiorno il path a main.scss in main.js
-- aggiungo eventuale cartella immagini a public 
+- aggiungo eventuale cartella immagini a public
+- aggiungo dentro la cartella styles una cartella partials per i file partial scss (es. varibili, animazioni, mixins, ecc) 
